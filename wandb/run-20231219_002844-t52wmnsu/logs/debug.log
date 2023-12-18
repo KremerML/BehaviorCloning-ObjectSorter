@@ -1,0 +1,13 @@
+2023-12-19 00:28:44,505 INFO    MainThread:9240 [wandb_setup.py:_flush():76] Current SDK version is 0.16.1
+2023-12-19 00:28:44,505 INFO    MainThread:9240 [wandb_setup.py:_flush():76] Configure stats pid to 9240
+2023-12-19 00:28:44,505 INFO    MainThread:9240 [wandb_setup.py:_flush():76] Loading settings from C:\Users\kreme\.config\wandb\settings
+2023-12-19 00:28:44,505 INFO    MainThread:9240 [wandb_setup.py:_flush():76] Loading settings from G:\GitHub\BehaviorCloning-ObjectSorter\wandb\settings
+2023-12-19 00:28:44,505 INFO    MainThread:9240 [wandb_setup.py:_flush():76] Loading settings from environment variables: {}
+2023-12-19 00:28:44,506 INFO    MainThread:9240 [wandb_setup.py:_flush():76] Applying setup settings: {'_disable_service': False}
+2023-12-19 00:28:44,508 INFO    MainThread:9240 [wandb_setup.py:_flush():76] Inferring run settings from compute environment: {'program_relpath': 'test.py', 'program_abspath': 'G:\\GitHub\\BehaviorCloning-ObjectSorter\\test.py', 'program': 'G:\\GitHub\\BehaviorCloning-ObjectSorter\\test.py'}
+2023-12-19 00:28:44,508 INFO    MainThread:9240 [wandb_init.py:_log_setup():524] Logging user logs to G:\GitHub\BehaviorCloning-ObjectSorter\wandb\run-20231219_002844-t52wmnsu\logs\debug.log
+2023-12-19 00:28:44,508 INFO    MainThread:9240 [wandb_init.py:_log_setup():525] Logging internal logs to G:\GitHub\BehaviorCloning-ObjectSorter\wandb\run-20231219_002844-t52wmnsu\logs\debug-internal.log
+2023-12-19 00:28:44,509 INFO    MainThread:9240 [wandb_init.py:init():564] calling init triggers
+2023-12-19 00:28:44,509 INFO    MainThread:9240 [wandb_init.py:init():571] wandb.init called with sweep_config: {}
+config: {}
+2023-12-19 00:28:44,509 INFO    MainThread:9240 [wandb_init.py:init():609] wandb.init() called when a run is still active

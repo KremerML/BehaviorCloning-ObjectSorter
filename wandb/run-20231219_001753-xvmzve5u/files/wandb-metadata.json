@@ -1,0 +1,53 @@
+{
+    "os": "Windows-10-10.0.19045-SP0",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-12-18T23:17:55.550962",
+    "startedAt": "2023-12-18T23:17:53.838469",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "G:\\GitHub\\BehaviorCloning-ObjectSorter\\test.py",
+    "codePathLocal": "test.py",
+    "codePath": "test.py",
+    "git": {
+        "remote": "https://github.com/KremerML/BehaviorCloning-ObjectSorter.git",
+        "commit": "1ae867be369aa23cb56915df74d35ccc63175624"
+    },
+    "email": "30371586+monkeybone88@users.noreply.github.com",
+    "root": "G:/GitHub/BehaviorCloning-ObjectSorter",
+    "host": "RON-PERSONAL",
+    "username": "kreme",
+    "executable": "G:\\anaconda\\envs\\dl2022\\python.exe",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2400.0,
+        "min": 0.0,
+        "max": 2400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400.0,
+            "min": 0.0,
+            "max": 2400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 465.7535400390625,
+            "used": 303.57958602905273
+        }
+    },
+    "gpu": "NVIDIA GeForce GTX 1660 Ti",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1660 Ti",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.913196563720703
+    }
+}

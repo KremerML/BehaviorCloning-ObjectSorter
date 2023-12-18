@@ -1,0 +1,14 @@
+E
+======================================================================
+ERROR: test_train_evaluate (__main__.TestTraining)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "G:\GitHub\BehaviorCloning-ObjectSorter\test.py", line 14, in test_train_evaluate
+    accuracy = training.train_and_evaluate(csv_file, root_dir, probs_file, counts_file, num_classes=10, device=device, epochs=1)
+  File "G:\GitHub\BehaviorCloning-ObjectSorter\model\training.py", line 24, in train_and_evaluate
+    wandb.watch(model)
+  File "G:\anaconda\envs\dl2022\lib\site-packages\wandb\sdk\wandb_watch.py", line 71, in watch
+    raise ValueError(
+ValueError: Expected a pytorch model (torch.nn.Module). Received <class 'model.model.PooledMultinomialModel'>
+----------------------------------------------------------------------
+Ran 1 test in 25.751s

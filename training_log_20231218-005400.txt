@@ -1,0 +1,12 @@
+Training with 2 classes...
+Epoch 1/2, Batch Loss: 0.8294185400009155
+Epoch 1/2, Batch Loss: 0.7430989742279053
+Epoch 1/2, Batch Loss: 0.6970375776290894
+Epoch 1/2, Batch Loss: 0.6391153931617737
+Epoch 1/2, Batch Loss: 0.5204382538795471
+Epoch 1/2, Batch Loss: 0.4460347592830658
+Epoch 1/2, Batch Loss: 0.4660325050354004
+Epoch 1/2, Batch Loss: 0.3116410970687866
+Epoch 1/2, Batch Loss: 0.23257634043693542
+Epoch 1/2, Batch Loss: 0.24989761412143707
+Epoch 1/2, Batch Loss: 0.21923725306987762
