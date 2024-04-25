@@ -1,5 +1,5 @@
 import torch
-import data.load_data
+import model.load_data
 import model.model as mdl
 from tqdm import tqdm
 import datetime
@@ -12,7 +12,7 @@ def train_and_evaluate(csv_file, root_dir, probs_file, counts_file, num_classes,
 
     with open(log_filename, "w") as log_file:
         # Load data with the updated function from load_data.py
-        train_loader, test_loader = data.load_data.load_data(csv_file, root_dir, probs_file, counts_file, num_classes)
+        train_loader, test_loader = model.load_data.load_data(csv_file, root_dir, probs_file, counts_file, num_classes)
 
         # Initialize Weights and Biases
         wandb.init(project='human-anno-model-comparison', entity='mnkbone')  
