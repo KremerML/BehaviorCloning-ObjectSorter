@@ -1,1 +1,3 @@
-/data/input
+/data
+/training_logs
+/wandb
